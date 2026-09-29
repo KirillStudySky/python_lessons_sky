@@ -8,6 +8,3 @@ def square(a):
 sum = float(input("Длинна стороны квадрата- "))
 result = square(sum)
 print(result)
-
-
-
