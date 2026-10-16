@@ -8,6 +8,7 @@ def test_multiple_elements():
 
     # Находим все ссылки
 
+
     links = driver.find_elements(By.TAG_NAME, "a")
 
     # Проверяем количество ссылок
