@@ -29,3 +29,4 @@ def test_dynamic_loading():
     assert hello_element.text == "Hello World!", f"Текст элемента не 'Hello World!', а '{hello_element.text}'"
 
     driver.quit()
+
