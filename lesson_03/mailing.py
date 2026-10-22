@@ -9,3 +9,4 @@ class Mailing:
         self.cost = cost
         self.track = track
 
+

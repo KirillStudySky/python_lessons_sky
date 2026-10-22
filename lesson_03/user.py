@@ -12,3 +12,4 @@ class User:
     def print_user_info(self):
         print(self.first_name, self.last_name)
 
+
