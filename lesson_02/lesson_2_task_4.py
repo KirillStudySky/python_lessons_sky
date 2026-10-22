@@ -13,3 +13,4 @@ def fizz_buzz(n):
 
 num = int(input("Введите число: "))
 fizz_buzz(num)
+
