@@ -7,8 +7,7 @@ class Address:
         self.apartment = apartment
 
 
-
-
     def formatted(self):
         return (f"{self.index} - {self.city} ,"
                 f"{self.street} {self.house} {self.apartment}")
+

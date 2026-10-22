@@ -12,3 +12,4 @@ from_info = f"{from_addr.formatted()}"
 to_info = f" в {mail.to_address.formatted()}"
 cost_info = f". Стоимость {mail.cost} рублей. "
 print(track_info + from_info + to_info + cost_info)
+
